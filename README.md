@@ -1,6 +1,5 @@
-## Hi there
 
-# I'm Oti 👋  
+# Hi, I'm Oti 👋  
 
 🎓 I'm a Computer Science and Artificial Intelligence student passionate about using technology for creativity, data, and social impact.  
 
