@@ -7,7 +7,7 @@ I'm a Computer Science (AI) student
 ```csharp
 public class Oti {
     private int age = 18;
-    public string[] skills = { "Python", "JavaScript", "C#", "HTML", "CSS" };
+    public string[] skills = { "Python", "JavaScript", "C++", "HTML", "CSS" };
     public string[] experiences = { "Founder @ Tech4Food", "Data Intern @ Varbs Kitchen", "SRC President @ Westerfield College" };
     public string[] hobbies = { "public speaking", "coding", "debate", "reading", "watching youtube!" }
 
