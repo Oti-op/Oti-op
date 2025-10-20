@@ -1,7 +1,20 @@
 
 # Hi, I'm Oti 👋  
 
-🎓 I'm a Computer Science and Artificial Intelligence student passionate about using technology for creativity, data, and social impact.  
+ I'm a Computer Science(AI) student
+
+### 🧠 About Me 
+
+ ```csharp
+public class Oti {
+    private int age = 18;
+    public string[] skills = { "Python", "JavaScript", "C#", "HTML", "CSS" };
+    public string[] experiences = { "AI App Tester @ Beyond Sunday", "Data Intern @ Varbs Kitchen", "SRC President @ Westerfield College" };
+
+    public void learn() {
+        Console.WriteLine("Always learning how tech can drive sustainable change and innovation.");
+    }
+}
 
 💡 I’ve worked on:
 - **AI App Testing (Beyond Sunday):** Tested image recognition features that generated personalised devotionals.
