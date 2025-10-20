@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there 👋 I'm Oti
 
-<!--
-**Oti-op/Oti-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Oti 👋  
 
-Here are some ideas to get you started:
+🎓 I'm a Computer Science and Artificial Intelligence student passionate about using technology for creativity, data, and social impact.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I’ve worked on:
+- **AI App Testing (Beyond Sunday):** Tested image recognition features that generated personalised devotionals.
+- **Varbs Kitchen Internship:** Supported data entry and analysis using spreadsheets to improve operational tracking.
+- **Tech 4 Food:** Currently developing non-profit.
+
+🌱 I'm currently learning more about backend development, machine learning, and data analytics.
+
+📫 How to reach me:
+- Email: [otiteos49@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/otitechukwuka-oseji/]
+
+⚙️ Tech stack:
+`Python` `JavaScript` `HTML/CSS` `C++` `Git` 
+
+✨ *"Building solutions that combine logic, creativity, and impact."*
+
+
