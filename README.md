@@ -2,7 +2,7 @@
 
 I'm a Computer Science (AI) student
 
-### 🧠 About Me 
+### 🧠 About Me :)
 
 ```csharp
 public class Oti {
