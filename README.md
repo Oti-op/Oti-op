@@ -12,6 +12,6 @@ public class Oti {
     public string[] hobbies = { "public speaking", "coding", "debate", "reading", "watching youtube!" }
 
     public void learn() {
-        Console.WriteLine("Always learning how tech can drive sustainable change and innovation.");
+        Console.WriteLine("Always learning how technology can drive sustainable change and innovation.");
     }
 }
