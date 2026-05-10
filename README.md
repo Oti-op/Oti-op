@@ -8,7 +8,7 @@ I'm a Computer Science (AI) student
 public class Oti {
     private int age = 18;
     public string[] skills = { "Python", "JavaScript", "C++", "HTML", "CSS" };
-    public string[] experiences = { "Incoming Software Engineer Intern @ Swiftbooked, Muze Studios", "AI and Cyber risk research @ E3 Consulting", "Chair @ UoP CompSoc", "mentee @ Challa.com" };
+    public string[] experiences = { "Incoming Software Engineer Intern @ Swiftbooked, Muze Studios", "AI and Cyber risk research @ E3 Consulting", "Chair @ UoP CompSoc" };
     public string[] hobbies = { "public speaking", "coding", "debate", "reading", "watching youtube!" }
 
     public void learn() {
