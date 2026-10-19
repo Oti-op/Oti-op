@@ -6,9 +6,9 @@ I'm a Computer Science (AI) student
 
 ```csharp
 public class Oti {
-    private int age = 18;
+    private int age = 19;
     public string[] skills = { "Python", "JavaScript", "Typescript", "C/C++", "HTML/CSS" };
-    public string[] experiences = {"linkedin.com/otitechukwuka-oseji" };
+    public string[] experiences = {"https://www.linkedin.com/in/oti-oseji1/" };
     public string[] hobbies = { "public speaking", "coding", "debate", "reading", "watching youtube" }
 
     public void learn() {
